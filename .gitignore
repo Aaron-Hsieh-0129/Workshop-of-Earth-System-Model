@@ -1,4 +1,4 @@
-*.DS_Store
+.DS_Store
 hw2/outputs
 hw2/hist
 hw3/data
